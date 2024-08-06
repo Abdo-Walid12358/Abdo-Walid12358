@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdelrahman walid" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrahman walid?logo=twitter&style=for-the-badge" alt="abdelrahman walid" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and modeling**
+- 🌱 I’m currently learning **More About Web Development**
 
 - 📫 You can reach me on discord (profile: 4____2__7_______) Or on WhatsApp (Phone: +201017794896) **abdowalidd2001@gmail.com**
 
