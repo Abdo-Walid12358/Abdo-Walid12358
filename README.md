@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **More About Web Development**
 
-- 📫 You can reach me on discord (profile: 4____2__7_______) Or on WhatsApp (Phone: +201017794896) **abdowalidd2001@gmail.com**
+- 📫 You can reach me on discord (profile: 4____2__7_______) Or on WhatsApp (Phone: +201017794896) **abdelrahman.dev42@gmail.com**
 
-- ⚡ Fun fact **I think I am positive and funny :)**
+- ⚡ Fun fact **I think I am positive :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
